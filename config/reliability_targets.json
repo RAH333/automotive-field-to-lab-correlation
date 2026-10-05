@@ -1,0 +1,6 @@
+{
+  "component_name": "Tractor_Front_Axle_Clevis",
+  "target_b10_life_hours": 5000,
+  "damage_correlation_threshold": 0.90,
+  "dfmea_critical_rpn_threshold": 120
+}
