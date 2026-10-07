@@ -1,6 +1,5 @@
-![Project Header Banner](https://unsplash.com)
 
-![Automotive Field-to-Lab Correlation Pipeline Banner](project-banner.png)
+![Automotive Field-to-Lab Correlation Pipeline Banner](assets/project-banner.jpg)
 
 # automotive-field-to-lab-correlation
 
